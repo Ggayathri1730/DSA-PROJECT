@@ -6,7 +6,7 @@ The system allows users to input passenger details such as Passenger ID, Name, S
 
 The application processes this data using different data structures and algorithms to efficiently store, search, sort, and manage passenger information.
 
-Data Structures Used
+Data Structures Used:
 
 Arrays
 
@@ -16,7 +16,7 @@ Queue
 
 Hash Table
 
-Algorithms Used
+Algorithms Used:
 
 Linear Search
 
@@ -36,7 +36,7 @@ Simulate passenger boarding queue
 
 Fast passenger lookup using hash table
 
-Technologies Used
+Technologies Used:
 
 Java
 
@@ -44,9 +44,9 @@ Data Structures and Algorithms (DSA)
 
 Console-based interface
 
-Author
+Author:
 
-G. Gayathri
-Roll No: 2520030465
-Section: 6
+G. Gayathri,
+Roll No: 2520030465,
+Section: 6,
 Cluster: 2
